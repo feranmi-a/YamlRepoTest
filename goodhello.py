@@ -10,15 +10,15 @@ def bye():
     print("Goodbye!")
 
 
-# def greet():
-#     """Prints happy weekend"""
-#     print("Happy Weekend")
+def greet():
+    """Prints happy weekend"""
+    print("Happy Weekend")
 
 
 if __name__ == "__main__":
     hello()
     bye()
-    # greet()
+    greet()
 
 
 ###Just adding comments
