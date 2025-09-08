@@ -1,5 +1,4 @@
 name: Python Pytest CI
-
 on:
   push:
     branches: [ main ]
